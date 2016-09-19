@@ -9,8 +9,8 @@ Running
 will fill create the database group92, create the sql tables and populate them.
 
 Inside IndexServer:
-        make clean
-        make
+        make clean.
+        make.
         ./IndexServer [port Number] [Inverted Index file]
   will run the Index Server, allowing queries to be processed
 
