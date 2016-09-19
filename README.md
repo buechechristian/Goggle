@@ -19,4 +19,4 @@ Running
 will run the website.
 
 
-* input files hadoop/dataset/mining.imageURLS.xml and hadoop/dataset/mining.articles.xml and output file invoutput/invOutfile exceed Github's maximum file size so they aren't included.
+*input files hadoop/dataset/mining.imageURLS.xml and hadoop/dataset/mining.articles.xml and output file invoutput/invOutfile exceed Github's maximum file size so they aren't included.
